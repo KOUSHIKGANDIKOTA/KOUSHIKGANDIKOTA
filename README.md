@@ -1,5 +1,5 @@
 # 💫 About Me:
-AI/ML Engineer with 3+ years of hands-on experience developing machine learning models, deep learning architectures, and LLM-driven applications. Experienced in building scalable ML pipelines, retrieval-augmented generation systems, and AI-powered automation tools using Python, PyTorch, TensorFlow, and modern MLOps practices. Proven ability to translate research concepts into production-ready solutions including NLP systems, reinforcement learning environments, and data-driven decision platforms. Currently pursuing an MSc in Artificial Intelligence at BTU Cottbus-Senftenberg with a focus on applied machine learning and intelligent systems.
+AI/ML Engineer with Domain experience developing machine learning models, deep learning architectures, and LLM-driven applications. Experienced in building scalable ML pipelines, retrieval-augmented generation systems, and AI-powered automation tools using Python, PyTorch, TensorFlow, and modern MLOps practices. Proven ability to translate research concepts into production-ready solutions including NLP systems, reinforcement learning environments, and data-driven decision platforms. Currently pursuing an MSc in Artificial Intelligence at BTU Cottbus-Senftenberg with a focus on applied machine learning and intelligent systems.
 
 
 ## 🌐 Socials:
